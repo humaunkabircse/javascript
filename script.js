@@ -64,7 +64,7 @@
     create_li.setAttribute('title', 'test-title');
 
     // Add textContent
-    create_li.textContent = "List one";
+    create_li.textContent = "List 3";
 
     console.log(create_li);
 
@@ -85,3 +85,77 @@
     create_li.appendChild(link);
 
     console.log(link);
+
+
+// Remove Element
+    const lis = document.querySelectorAll('li');
+    const list = document.querySelector('ul');
+    
+    // list.removeChild(lis[3]);
+
+
+
+
+
+
+
+
+// Change Style
+
+
+// Change Element
+
+
+// get ElementByClassName
+
+
+// get ElementByTagName
+
+
+// querySelector
+
+
+// querySelectorAll
+
+
+// forEach loop
+
+
+// get Children Element
+    
+
+// get Parent Element
+   
+// Create Element
+   
+
+    // Add ClassName
+  
+
+    // Add ID
+   
+
+    // Add Attribute
+  
+
+    // Add textContent
+
+    // Append li as a Child to ul
+
+
+    // Create link
+   
+
+    // Add link Class
+ 
+
+    // Add HTML
+    
+
+    // Append Child
+
+
+
+// Remove Element
+  
+
